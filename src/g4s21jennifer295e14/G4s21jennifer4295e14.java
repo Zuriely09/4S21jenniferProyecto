@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package g4s21Eduardo4295e14;
+package g4s21jennifer295e14;
 
 import ConexionDAO.Conexion;
 import DTO.Datos;
@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
  * @author 
  * 
  */
-public class G4s21Eduardo4295e14 {
+public class G4s21jennifer4295e14 {
 
     /**
      * @param args the command line arguments

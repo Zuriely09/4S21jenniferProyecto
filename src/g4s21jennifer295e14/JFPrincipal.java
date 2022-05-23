@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package g4s21Eduardo4295e14;
+package g4s21jennifer295e14;
 
 import ConexionDAO.Conexion;
 import DTO.Datos;
@@ -13,7 +13,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author hugo4295
+ * @author
  */
 public class JFPrincipal extends javax.swing.JFrame {
 
